@@ -1,0 +1,13 @@
+D:\QuanLyNhaDat-LeManh\bin\Debug\netcoreapp3.1\QuanLyNhaDat-LeManh.exe
+D:\QuanLyNhaDat-LeManh\bin\Debug\netcoreapp3.1\QuanLyNhaDat-LeManh.deps.json
+D:\QuanLyNhaDat-LeManh\bin\Debug\netcoreapp3.1\QuanLyNhaDat-LeManh.runtimeconfig.json
+D:\QuanLyNhaDat-LeManh\bin\Debug\netcoreapp3.1\QuanLyNhaDat-LeManh.runtimeconfig.dev.json
+D:\QuanLyNhaDat-LeManh\bin\Debug\netcoreapp3.1\QuanLyNhaDat-LeManh.dll
+D:\QuanLyNhaDat-LeManh\bin\Debug\netcoreapp3.1\QuanLyNhaDat-LeManh.pdb
+D:\QuanLyNhaDat-LeManh\obj\Debug\netcoreapp3.1\QuanLyNhaDat-LeManh.csprojAssemblyReference.cache
+D:\QuanLyNhaDat-LeManh\obj\Debug\netcoreapp3.1\QuanLyNhaDat-LeManh.AssemblyInfoInputs.cache
+D:\QuanLyNhaDat-LeManh\obj\Debug\netcoreapp3.1\QuanLyNhaDat-LeManh.AssemblyInfo.cs
+D:\QuanLyNhaDat-LeManh\obj\Debug\netcoreapp3.1\QuanLyNhaDat-LeManh.csproj.CoreCompileInputs.cache
+D:\QuanLyNhaDat-LeManh\obj\Debug\netcoreapp3.1\QuanLyNhaDat-LeManh.dll
+D:\QuanLyNhaDat-LeManh\obj\Debug\netcoreapp3.1\QuanLyNhaDat-LeManh.pdb
+D:\QuanLyNhaDat-LeManh\obj\Debug\netcoreapp3.1\QuanLyNhaDat-LeManh.genruntimeconfig.cache
