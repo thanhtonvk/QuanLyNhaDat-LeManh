@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\thanh\\.nuget\\packages\\": {}
+    "C:\\Users\\TonDz\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\QuanLyNhaDat-LeManh\\QuanLyNhaDat-LeManh.csproj",
+      "projectUniqueName": "C:\\Users\\TonDz\\Documents\\GitHub\\QuanLyNhaDat-LeManh\\QuanLyNhaDat-LeManh.csproj",
       "projectName": "QuanLyNhaDat-LeManh",
-      "projectPath": "D:\\QuanLyNhaDat-LeManh\\QuanLyNhaDat-LeManh.csproj",
-      "packagesPath": "C:\\Users\\thanh\\.nuget\\packages\\",
-      "outputPath": "D:\\QuanLyNhaDat-LeManh\\obj\\",
+      "projectPath": "C:\\Users\\TonDz\\Documents\\GitHub\\QuanLyNhaDat-LeManh\\QuanLyNhaDat-LeManh.csproj",
+      "packagesPath": "C:\\Users\\TonDz\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\TonDz\\Documents\\GitHub\\QuanLyNhaDat-LeManh\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\thanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\TonDz\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -32,6 +32,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -43,6 +44,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -58,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

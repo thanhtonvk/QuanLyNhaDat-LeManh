@@ -11,3 +11,16 @@ D:\QuanLyNhaDat-LeManh\obj\Debug\netcoreapp3.1\QuanLyNhaDat-LeManh.csproj.CoreCo
 D:\QuanLyNhaDat-LeManh\obj\Debug\netcoreapp3.1\QuanLyNhaDat-LeManh.dll
 D:\QuanLyNhaDat-LeManh\obj\Debug\netcoreapp3.1\QuanLyNhaDat-LeManh.pdb
 D:\QuanLyNhaDat-LeManh\obj\Debug\netcoreapp3.1\QuanLyNhaDat-LeManh.genruntimeconfig.cache
+C:\Users\TonDz\Documents\GitHub\QuanLyNhaDat-LeManh\bin\Debug\netcoreapp3.1\QuanLyNhaDat-LeManh.exe
+C:\Users\TonDz\Documents\GitHub\QuanLyNhaDat-LeManh\bin\Debug\netcoreapp3.1\QuanLyNhaDat-LeManh.deps.json
+C:\Users\TonDz\Documents\GitHub\QuanLyNhaDat-LeManh\bin\Debug\netcoreapp3.1\QuanLyNhaDat-LeManh.runtimeconfig.json
+C:\Users\TonDz\Documents\GitHub\QuanLyNhaDat-LeManh\bin\Debug\netcoreapp3.1\QuanLyNhaDat-LeManh.runtimeconfig.dev.json
+C:\Users\TonDz\Documents\GitHub\QuanLyNhaDat-LeManh\bin\Debug\netcoreapp3.1\QuanLyNhaDat-LeManh.dll
+C:\Users\TonDz\Documents\GitHub\QuanLyNhaDat-LeManh\bin\Debug\netcoreapp3.1\QuanLyNhaDat-LeManh.pdb
+C:\Users\TonDz\Documents\GitHub\QuanLyNhaDat-LeManh\obj\Debug\netcoreapp3.1\QuanLyNhaDat-LeManh.csprojAssemblyReference.cache
+C:\Users\TonDz\Documents\GitHub\QuanLyNhaDat-LeManh\obj\Debug\netcoreapp3.1\QuanLyNhaDat-LeManh.AssemblyInfoInputs.cache
+C:\Users\TonDz\Documents\GitHub\QuanLyNhaDat-LeManh\obj\Debug\netcoreapp3.1\QuanLyNhaDat-LeManh.AssemblyInfo.cs
+C:\Users\TonDz\Documents\GitHub\QuanLyNhaDat-LeManh\obj\Debug\netcoreapp3.1\QuanLyNhaDat-LeManh.csproj.CoreCompileInputs.cache
+C:\Users\TonDz\Documents\GitHub\QuanLyNhaDat-LeManh\obj\Debug\netcoreapp3.1\QuanLyNhaDat-LeManh.dll
+C:\Users\TonDz\Documents\GitHub\QuanLyNhaDat-LeManh\obj\Debug\netcoreapp3.1\QuanLyNhaDat-LeManh.pdb
+C:\Users\TonDz\Documents\GitHub\QuanLyNhaDat-LeManh\obj\Debug\netcoreapp3.1\QuanLyNhaDat-LeManh.genruntimeconfig.cache
